@@ -9,7 +9,7 @@ pip install django-phonenumber-field[phonenumbers]
 Change Directory to Django---Hotel-Management-System/HMS and start the Shell:
 ```
 python manage.py createsuperuser
-python3 manage.py makemigration
+python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 ## Run the server
